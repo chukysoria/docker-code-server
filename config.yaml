@@ -1,6 +1,6 @@
 ---
 image: code-server
-version: v0.0.1
+version: v0.1.0
 name: CodeServer
 description: "Coder customized to share data with Remote SSH VS Code"
 ext_release: v1.0.0
