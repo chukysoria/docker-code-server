@@ -1,4 +1,4 @@
 ---
 build_from:
-  aarch64: lscr.io/linuxserver/code-server:4.22.1-ls202
-  x86_64: lscr.io/linuxserver/code-server:4.22.1-ls202
+  aarch64: lscr.io/linuxserver/code-server:4.22.1-ls203
+  x86_64: lscr.io/linuxserver/code-server:4.22.1-ls203
