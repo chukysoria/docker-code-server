@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-ARG BUILD_FROM=lscr.io/linuxserver/code-server:4.89.0-ls211
+ARG BUILD_FROM=lscr.io/linuxserver/code-server:4.89.1-ls212
 
 FROM ${BUILD_FROM} 
 
